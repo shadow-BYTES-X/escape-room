@@ -16,7 +16,7 @@ let testCode = [];
 let answers = [
   {
     text: `Du schaust dich im Raum um und findest einen aufgeschlagenen Ordner, der die Beschreibungen für die Flucht aus dem Bunker enthält. 
-Bei genaueren Hinsehen entdeckst du mit Schrecken, dass die Aufzeichnungen die sich hier befunden haben, 
+Bei genauerem Hinsehen entdeckst du mit Schrecken, dass die Aufzeichnungen die sich hier befunden haben, 
 alle vernichtet wurden. Übrig geblieben ist nur eine handschriftliche Notitz: "Um zu entkommen, 
 musst du das Licht verstehen. Berechne die Farbmischungen und erkenne, welche Farbe verschwindet!" -- 
 Du siehst drei Lichtquellen mit den Grundfarben des additiven Farbmodells: \r\n
@@ -45,7 +45,7 @@ Addiere nun die drei Werte die du errechnet hast und trage deren Quersumme in da
     audioPath: 'wastelands(darkC64)'
   }, 
   {
-    text: `Nachdem du die Gänge entlanggeeilt bist, gelangst du in einen verlassenen Besprechungsraum.
+    text: `Nachdem du die Gänge entlang geeilt bist, gelangst du in einen verlassenen Besprechungsraum.
     Du suchst nach Hinweisen und nach einiger Zeit erblickst du eine Konstruktion mit einem Zettel. 
     Du betätigst den Schalter und ein Licht fängt an zu leuchten. 
     Doch was hat es mit dem Zettel auf sich? \r\n 
