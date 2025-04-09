@@ -1,0 +1,82 @@
+html, body {
+    height: 100%; 
+} 
+
+body {
+    background: url('./img/final.png'); 
+    background-size: cover; 
+    background-position: center; 
+}
+
+h1 {
+    text-align: center; 
+    color: white; 
+} 
+
+p {
+    text-align: center; 
+} 
+
+#audio-permission { 
+    background: #ffffff; 
+    padding: 2%; 
+    border-radius: .5em; 
+    position: absolute; 
+} 
+
+#popup-container {
+    position: absolute; 
+    width: 100%; 
+    height: 100%; 
+    top: 0; 
+    left: 0; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    background: #000000cc; 
+} 
+
+#confirm-button {
+    width: auto;
+} 
+
+#credits-container {
+    text-align: center; 
+} 
+
+#credits-container h1 {
+    margin-bottom: 15%; 
+}
+
+#credits-container ul {
+    list-style: none; 
+    color: black; 
+} 
+
+p {
+    text-align: center; 
+    font-size: x-large;
+}
+
+#last {
+    margin-top: 15%; 
+    font-size: xx-large; 
+    animation: done 2s infinite ease-in-out alternate; 
+}
+
+@keyframes done {
+    0% {
+        color: black; 
+    } 
+    100% {
+        color: white; 
+    }
+} 
+
+a {
+    text-decoration: none; 
+    color: white; 
+    text-align: center; 
+    font-weight: bold; 
+    font-size: x-large; 
+}

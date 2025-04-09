@@ -1,0 +1,45 @@
+html {
+    background-color: black; 
+}
+
+html, body {
+    height: 100%; 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box; 
+} 
+
+body {
+    background: url('https://cdn.80.lv/api/upload/post/1744/images/5d28b8459d102/widen_1220x0.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    color: white; 
+} 
+
+h1, p {
+    text-align: center; 
+} 
+
+#intro {
+    width: 80%; 
+    margin: 5% auto; 
+}
+
+.accent { 
+    
+    font-size: xx-large; 
+    font-weight: bold; 
+    text-align: center; 
+    background: linear-gradient(lightblue, black); 
+    background-clip: text; 
+    color: transparent; 
+}
+
+.centerEnd {
+    display: flex; 
+    justify-content: center; 
+    margin-top: 5%; 
+} 
+
+
+
