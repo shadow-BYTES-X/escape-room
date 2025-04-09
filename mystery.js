@@ -1,4 +1,4 @@
-// ---------------------------------------- (c) Steffen Stieler 2025 ----------------------------------
+// ---------------------------------------- (c) shadow BYTES X 2025 ----------------------------------
 let image = document.querySelector('img'); 
 let text = document.querySelector('#text'); 
 let choices = document.querySelector('ul'); 
